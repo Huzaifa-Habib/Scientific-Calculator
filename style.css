@@ -1,0 +1,174 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #373b44, #4286f4); 
+
+}
+
+
+table{
+    margin: auto;
+}
+
+.upper td{
+    font-size: 12px;
+
+}
+
+button{
+    background-color: white;
+}
+
+.upper button{
+    margin:10px 0 ;
+    border: none;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    border-radius: 3px;
+    font-weight: bold;
+    width: 80%;
+    font-family: cursive;
+
+}
+
+.middle button{
+    margin:10px 0;
+    border: none;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 0 10px;
+    width: 80%;
+    font-family: cursive;
+
+}
+
+
+.one-row button{
+    width: 80%;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+    padding: 0 20px;
+}
+
+.second-row button{
+    width: 80%;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+    padding: 0 20px;
+    margin-top: 10px;
+
+}
+
+.third-row button{
+    width: 80%;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+    padding: 0 20px;
+    margin-top: 10px;
+
+
+}
+
+.fourth-row button{
+    width: 80%;
+    box-shadow: 1px 1px 0 1px rgb(201, 199, 199) ;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+    padding: 0 20px;
+    margin-top: 10px;
+
+}
+
+.remove{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    border: none;
+    background-color: white;
+    box-shadow: 1px 1px 0 1px teal ;
+    background-color: teal;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+
+
+}
+
+.color{
+    background-color: rgb(70, 70, 70);
+    box-shadow:  1px 1px 0 1px rgb(70, 70, 70) !important;
+    color: white;
+}
+
+.result-color{
+    background-color: plum;
+    box-shadow:  1px 1px 0 1px plum !important;
+
+    color: white;
+    font-weight: bolder;
+}
+
+.containerr{
+    /* text-align: center; */
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid white;
+    height: 60vh;
+
+    
+
+}
+
+.calculator{
+    text-align: center;
+    margin-top: 30px;
+}
+
+h1{
+    font-family: cursive;
+    color: #e91e63;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+}
+
+
+input{
+    width: 88%;
+    height: 100px;
+    margin: 0 3px;
+    border: none;
+    outline: none;
+    color: #fff;
+    text-align: right;
+    padding-right: 20px;
+    pointer-events: none;
+    background: transparent;
+    color: chartreuse;
+    font-weight: bold;
+    font-size: 40px;
+
+}
